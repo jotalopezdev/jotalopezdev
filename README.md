@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jota
 
-Soy Ingeniero de Sistemas con pasión por construir soluciones sólidas y bien tipadas. Me gusta ir más allá del "qué hace", y entender el "cómo lo hace". Aunque mi enfoque siempre fue más backend, Flutter logró conquistarme.
+Soy Ingeniero de Sistemas apasionado con construir soluciones sólidas y bien tipadas. Me gusta ir más allá del "qué hace", y entender el "cómo lo hace". Aunque mi enfoque siempre fue más backend, Flutter logró conquistarme.
 
 ## 🧠 Sobre mí
 - 🎓 Ingeniero de Sistemas
