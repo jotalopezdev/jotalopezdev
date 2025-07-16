@@ -1,27 +1,31 @@
-# 👋 ¡Hola! Soy Jota
+# 👋 Hey there! I'm Jota
 
-Soy Ingeniero de Sistemas apasionado con construir soluciones sólidas y bien tipadas. Me gusta ir más allá del "qué hace", y entender el "cómo lo hace". Aunque mi enfoque siempre fue más backend, Flutter logró conquistarme.
+I'm a Systems Engineer passionate about building solid, well-typed solutions. I like to go beyond the *"what it does"* and dive deep into the *"how it works."* While my background has always leaned toward backend, Flutter managed to win me over.
 
-## 🧠 Sobre mí
-- 🎓 Ingeniero de Sistemas
-- 🔧 Con background técnico orientado a backend y arquitectura
-- 💙 Fan de los lenguajes fuertemente tipados 
-- 📱 Actualmente explorando a fondo Flutter y su ecosistema
-- 🫡 (Dato curioso: presté servicio militar, y sí, también se aprende disciplina en el código 😅)
+## 🧠 About Me
 
-## 🚀 En este GitHub vas a encontrar:
-- Proyectos personales con Flutter y Dart
-- Experimentos técnicos y aprendizajes en camino
-- Arquitecturas que intento mantener limpias y sostenibles
-- Cosas que hago por gusto, no por obligación
+* 🎓 Systems Engineer
+* 🔧 Technical background focused on backend and architecture
+* 💙 Strongly-typed language enthusiast
+* 📱 Currently diving deep into Flutter and its ecosystem
+* 🫡 (Fun fact: I did military service — turns out, discipline applies to code too 😅)
 
-## 🌱 En aprendizaje constante:
-- Mejores prácticas en Flutter  
-- Organización de código y escalabilidad en apps móviles  
-- Cositas de FFI y bajo nivel (cuando se necesita)  
-- Automatización y CI/CD para apps
+## 🚀 What you'll find in this GitHub:
 
-### 🔧 Stack principal
+* Personal projects built with Flutter and Dart
+* Technical experiments and lessons learned along the way
+* Architectures I try to keep clean and maintainable
+* Things I create for fun, not just for work
+
+## 🌱 Always learning about:
+
+* Best practices in Flutter
+* Code organization and scalability in mobile apps
+* Low-level things like FFI (when needed)
+* Automation and CI/CD for mobile development
+
+### 🔧 Main Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,postgres,java,cpp,rust,git,androidstudio,kotlin,swift" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,postgres,java,spring,golang,cpp,rust,git,linux,androidstudio,kotlin,swift" />
 </p>
